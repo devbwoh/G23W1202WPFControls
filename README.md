@@ -9,3 +9,5 @@ https://nano5.notion.site/Week13-01-Controls-WPF-5ed886d8d783422498ee0e7335fb5a5
 # Week 13 02 Click Once 배포
 
 https://nano5.notion.site/Week13-02-ClickOnce-da14d2588d5c4675b9c8b48f2a5613d1?pvs=4
+
+![image](https://github.com/devbwoh/G23W1202WPFControls/assets/77666026/5f668123-8692-490c-b9fa-73fa836be3ed)
